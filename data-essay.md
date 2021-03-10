@@ -10,9 +10,12 @@
 
 Сами по себе данными являются неопределенные факты и цифры, которые используются в качестве входных данных для анализа. А информация – это результат преобразования и анализа данных. Ссылки на данные на сайте-источнике (data.mos.ru):
 
-https://data.mos.ru/opendata/7704221753-avtozapravochnye-stantsii-realizuyushchie-toplivo-nesootvetstvuyushchee-ustanovlennym-ekologicheskim-trebovaniyam
-https://data.mos.ru/opendata/7704221753-avtozapravochnye-stantsii-realizuyushchie-toplivo-sootvetstvuyushchee-ustanovlennym-ekologicheskim-trebovaniyam
-https://data.mos.ru/opendata/7704786030-elektrozapravki
+
+• https://data.mos.ru/opendata/7704221753-avtozapravochnye-stantsii-realizuyushchie-toplivo-nesootvetstvuyushchee-ustanovlennym-ekologicheskim-trebovaniyam
+
+• https://data.mos.ru/opendata/7704221753-avtozapravochnye-stantsii-realizuyushchie-toplivo-sootvetstvuyushchee-ustanovlennym-ekologicheskim-trebovaniyam
+
+• https://data.mos.ru/opendata/7704786030-elektrozapravki
 
 4. Ограничения на материал, легальность
 
