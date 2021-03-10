@@ -8,6 +8,8 @@
 
 3. Источники данных
 
+Сами по себе данными являются неопределенные факты и цифры, которые используются в качестве входных данных для анализа. А информация – это результат преобразования и анализа данных. Ссылки на данные на сайте-источнике (data.mos.ru):
+
 https://data.mos.ru/opendata/7704221753-avtozapravochnye-stantsii-realizuyushchie-toplivo-nesootvetstvuyushchee-ustanovlennym-ekologicheskim-trebovaniyam
 https://data.mos.ru/opendata/7704221753-avtozapravochnye-stantsii-realizuyushchie-toplivo-sootvetstvuyushchee-ustanovlennym-ekologicheskim-trebovaniyam
 https://data.mos.ru/opendata/7704786030-elektrozapravki
@@ -18,11 +20,16 @@ https://data.mos.ru/opendata/7704786030-elektrozapravki
 
 5. Лицензия
 
+Creative Commons Attribution 3.0
 
 6. Авторство
 
+Автор материала – Шарлай Яков Сегреевич, email – tvzelenkova@edu.hse.ru.
+Автор набора данных «Автозаправочные станции, реализующие топливо, несоответствующее установленным экологическим требованиям» – Строгонов Дмитрий Владимирович, email – StrogonovDV@mos.ru.
+Автор набора данных «Автозаправочные станции, реализующие топливо, соответствующее установленным экологическим требованиям» – Строгонов Дмитрий Владимирович, email – StrogonovDV@mos.ru.
+Автор набора данных «Зарядные станции для электромобилей» – Шумская Александра Игоревна, email – electro@mos.ru.
 
 7. Инструменты, форматы данных
 
-Использованные форматы данных – .xml, .json.
+Использованные форматы данных – .json.
 Очистка данных не требуется.
